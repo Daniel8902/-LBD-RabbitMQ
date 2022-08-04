@@ -1,0 +1,13 @@
+package com.RabbitMQ.SpringBootPublisher;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBootPublisherApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
